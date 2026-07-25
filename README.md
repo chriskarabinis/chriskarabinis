@@ -1,97 +1,111 @@
 <h1 align="center">Chris Karabinis</h1>
 
 <p align="center">
-  <b>SysAdmin &amp; DevOps Engineer</b> · Greece 🇬🇷<br>
-  Linux servers · Web hosting infrastructure · Email &amp; DNS
+  <b>Web Developer &amp; SysAdmin / DevOps</b> · Greece 🇬🇷<br>
+  I build the applications — and the infrastructure they run on.
 </p>
 
 <p align="center">
-  <a href="https://chriskarabinis.gr"><img src="https://img.shields.io/badge/Website-chriskarabinis.gr-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/chriskarabinis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/chriskarabinis_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="mailto:karabinischristos@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://chriskarabinis.gr"><img src="https://img.shields.io/badge/Website-chriskarabinis.gr-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/chriskarabinis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/chriskarabinis_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:karabinischristos@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### About me
+## About
 
-I started as a WordPress developer and moved deeper down the stack — control panels, SSH, mail servers, DNS, firewalls — until infrastructure became the actual job. Today I work as a freelancer on web development and server administration, mostly alongside **[Gcode](https://gcode.gr)**, and I focus on running hosting infrastructure that stays fast, secure and deliverable.
+I started out building websites in WordPress. Then I got curious about what happens *after* the deploy — panels, SSH, mail queues, DNS, firewalls — and never really came back. Today I work as a freelancer on both sides of the line: I build the apps and sites, and I run the servers they live on.
 
-- 🔧 Linux server administration, hosting control panels, mail &amp; DNS infrastructure
-- 🛡️ Hardening WordPress/WooCommerce stacks on Nginx, brute-force protection, WAF rules
-- 📬 Mail deliverability: SPF / DKIM / DMARC, PTR &amp; FCrDNS alignment, DNSBL troubleshooting, IMAP migrations
-- 🎯 Working toward a hosting engineer / systems administrator role
+Most of my work sits somewhere in web hosting: Linux servers, Nginx, Docker, mail infrastructure and DNS — plus the Laravel and WordPress applications on top.
+
+- 🧱 **Applications** — Laravel apps, WordPress/WooCommerce plugins, custom websites
+- ⚙️ **Infrastructure** — Linux server administration, Nginx/Caddy, Docker stacks, control panels
+- 📬 **Mail &amp; DNS** — SPF / DKIM / DMARC, PTR &amp; FCrDNS, DNSBL troubleshooting, IMAP migrations
+- 🛡️ **Security** — server hardening, WAF &amp; rate-limiting rules, brute-force mitigation, TLS
+- 🛠️ **Tooling** — CLI tools in Go and Bash for DNS, mail, TLS and domain diagnostics
+- 📚 **Writing** — open technical guides (many in Greek) on hosting, SSH and server security
 
 ---
 
-### Tech &amp; tools
+## What I work with
 
-**Systems**
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Application development**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Systems &amp; hosting**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Web &amp; hosting**
-
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
-![HestiaCP](https://img.shields.io/badge/HestiaCP-4D9A06?style=flat-square&logo=linuxcontainers&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
 
-**Mail &amp; DNS**
+**Panels, mail &amp; security**
 
-![Postfix](https://img.shields.io/badge/Postfix-000000?style=flat-square&logo=maildotru&logoColor=white)
-![Dovecot](https://img.shields.io/badge/Dovecot-1E5A8C?style=flat-square&logo=maildotru&logoColor=white)
-![SPF--DKIM--DMARC](https://img.shields.io/badge/SPF·DKIM·DMARC-2C3E50?style=flat-square)
-![BIND](https://img.shields.io/badge/DNS-0B5FFF?style=flat-square&logo=cloudflare&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
+![HestiaCP](https://img.shields.io/badge/HestiaCP-4D9A06?style=flat-square)
+![CloudPanel](https://img.shields.io/badge/CloudPanel-1D4ED8?style=flat-square)
+![Postfix](https://img.shields.io/badge/Postfix%20%2F%20Dovecot-000000?style=flat-square)
+![SPF DKIM DMARC](https://img.shields.io/badge/SPF%20%C2%B7%20DKIM%20%C2%B7%20DMARC-2C3E50?style=flat-square)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban%20%2F%20UFW-B91C1C?style=flat-square)
 
-**Development**
+**Daily driver**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### Featured work
+## Currently building
 
-| Repository | What it is |
-|---|---|
-| **[complete-web-hosting-guide](https://github.com/chriskarabinis/complete-web-hosting-guide)** | End-to-end guide for building and running a web hosting stack |
-| **[Nginx-Production-Templates-WordPress-And-WooCommerce](https://github.com/chriskarabinis/Nginx-Production-Templates-WordPress-And-WooCommerce)** | Production-ready Nginx configs for WP &amp; WooCommerce |
-| **[Nginx-Security-Rules](https://github.com/chriskarabinis/Nginx-Security-Rules)** | Hardening rules and request filtering for Nginx |
-| **[WordPress-Hardening-wpConfig](https://github.com/chriskarabinis/WordPress-Hardening-wpConfig)** | Secure `wp-config.php` baseline |
-| **[WP-Brute-Force-Protection](https://github.com/chriskarabinis/WP-Brute-Force-Protection)** | Login brute-force mitigation for WordPress |
-| **[Wordpress-Single-Container-Docker-Install](https://github.com/chriskarabinis/Wordpress-Single-Container-Docker-Install)** | Single-container Docker install for WordPress |
+- **Kyklos** — a Laravel-based hosting CRM; a modern take on WHMCS / Blesta
+- **[sek](https://github.com/chriskarabinis/sek)** — a cloud CLI toolkit in Go: DNS, subdomains, certificates, WHOIS and port scanning in one binary
+- **Email hosting infrastructure** — mail nodes on Hetzner with a dedicated outbound relay strategy
+- **[chriskarabinis.gr](https://chriskarabinis.gr)** — my site, on a custom Laravel framework with GSAP scroll animations
 
 ---
 
-### Currently building
-
-- **Kyklos** — a Laravel-based hosting CRM, a modern alternative to WHMCS/Blesta
-- **Email hosting infrastructure** — Modoboa + Roundcube on Hetzner VPS nodes with an outbound relay strategy
-- **[chriskarabinis.gr](https://chriskarabinis.gr)** — personal site on a custom Laravel framework with GSAP scroll animations
-
----
-
-### GitHub stats
+## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chriskarabinis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriskarabinis&layout=compact&langs_count=8&hide_border=true&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com?user=chriskarabinis&hide_border=true&theme=tokyonight&border_radius=8" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chriskarabinis&hide_border=true&theme=tokyonight">
+  <img src="https://img.shields.io/github/followers/chriskarabinis?style=flat-square&logo=github&label=Followers&color=1F6FEB" alt="Followers">
+  <img src="https://img.shields.io/github/stars/chriskarabinis?style=flat-square&logo=github&label=Stars&color=1F6FEB" alt="Stars">
 </p>
+
+<!--
+  Optional: GitHub stats cards.
+  The public github-readme-stats instance is often rate-limited and renders as a broken image.
+  Deploy your own fork to Vercel, then swap the host below and uncomment.
+
+  <img src="https://YOUR-INSTANCE.vercel.app/api?username=chriskarabinis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight">
+  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=chriskarabinis&layout=compact&langs_count=8&hide_border=true&theme=tokyonight">
+-->
 
 ---
 
