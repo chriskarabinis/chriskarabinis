@@ -1,8 +1,7 @@
 <h1 align="center">Chris Karabinis</h1>
 
 <p align="center">
-  <b>Web Developer &amp; SysAdmin / DevOps</b> · Greece 🇬🇷<br>
-  I build the applications — and the infrastructure they run on.
+  <b>DevOps Engineer</b> · Greece 🇬🇷
 </p>
 
 <p align="center">
@@ -16,57 +15,71 @@
 
 ## About
 
-I started out building websites in WordPress. Then I got curious about what happens *after* the deploy — panels, SSH, mail queues, DNS, firewalls — and never really came back. Today I work as a freelancer on both sides of the line: I build the apps and sites, and I run the servers they live on.
+I started out building websites in WordPress. Then I got curious about what happens *after* the deploy — servers, SSH, DNS, mail queues, firewalls — and never really came back. Today I work as a freelance DevOps engineer: I build, automate and secure the infrastructure that web applications run on.
 
-Most of my work sits somewhere in web hosting: Linux servers, Nginx, Docker, mail infrastructure and DNS — plus the Laravel and WordPress applications on top.
-
-- 🧱 **Applications** — Laravel apps, WordPress/WooCommerce plugins, custom websites
-- ⚙️ **Infrastructure** — Linux server administration, Nginx/Caddy, Docker stacks, control panels
+- ⚙️ **Infrastructure** — Linux server administration, Proxmox, Docker &amp; Kubernetes, Nginx / Caddy / Traefik
+- 🔁 **Automation &amp; CI/CD** — infrastructure as code with Terraform / OpenTofu and Ansible, pipelines on Forgejo &amp; GitHub Actions
+- 📈 **Monitoring** — metrics and dashboards with Prometheus &amp; Grafana, plus uptime and server monitoring
 - 📬 **Mail &amp; DNS** — SPF / DKIM / DMARC, PTR &amp; FCrDNS, DNSBL troubleshooting, IMAP migrations
-- 🛡️ **Security** — server hardening, WAF &amp; rate-limiting rules, brute-force mitigation, TLS
+- 🛡️ **Security** — server hardening, WAF &amp; rate-limiting rules, CrowdSec / Fail2Ban, WireGuard / Tailscale, TLS
 - 🛠️ **Tooling** — CLI tools in Go and Bash for DNS, mail, TLS and domain diagnostics
 - 📚 **Writing** — open technical guides (many in Greek) on hosting, SSH and server security
+
+> [!NOTE]
+> My client work and private repositories live on my own self-hosted Forgejo server. On GitHub I only work on open source.
 
 ---
 
 ## What I work with
 
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Application development**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Systems &amp; hosting**
+**Systems &amp; cloud**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Virtualization &amp; containers**
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+
+**Automation &amp; CI/CD**
+
+![Terraform / OpenTofu](https://img.shields.io/badge/Terraform%20%2F%20OpenTofu-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Forgejo Actions](https://img.shields.io/badge/Forgejo%20Actions-FB923C?style=flat-square&logo=forgejo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Monitoring**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=black)
+![Zabbix / Netdata](https://img.shields.io/badge/Zabbix%20%2F%20Netdata-D40000?style=flat-square)
+
+**Networking &amp; security**
+
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-3B2E8C?style=flat-square)
+![Let's Encrypt](https://img.shields.io/badge/Let%27s%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+![Fail2Ban / UFW](https://img.shields.io/badge/Fail2Ban%20%2F%20UFW-B91C1C?style=flat-square)
+
+**Web, mail &amp; databases**
+
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
-
-**Panels, mail &amp; security**
-
-![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
-![HestiaCP](https://img.shields.io/badge/HestiaCP-4D9A06?style=flat-square)
-![CloudPanel](https://img.shields.io/badge/CloudPanel-1D4ED8?style=flat-square)
-![Postfix](https://img.shields.io/badge/Postfix%20%2F%20Dovecot-000000?style=flat-square)
+![Postfix / Dovecot](https://img.shields.io/badge/Postfix%20%2F%20Dovecot-000000?style=flat-square)
 ![SPF DKIM DMARC](https://img.shields.io/badge/SPF%20%C2%B7%20DKIM%20%C2%B7%20DMARC-2C3E50?style=flat-square)
-![Fail2Ban](https://img.shields.io/badge/Fail2Ban%20%2F%20UFW-B91C1C?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Daily driver**
 
@@ -74,41 +87,9 @@ Most of my work sits somewhere in web hosting: Linux servers, Nginx, Docker, mai
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Currently building
-
-- **Kyklos** — a Laravel-based hosting CRM; a modern take on WHMCS / Blesta
-- **[sek](https://github.com/chriskarabinis/sek)** — a cloud CLI toolkit in Go: DNS, subdomains, certificates, WHOIS and port scanning in one binary
-- **Email hosting infrastructure** — mail nodes on Hetzner with a dedicated outbound relay strategy
-- **[chriskarabinis.gr](https://chriskarabinis.gr)** — my site, on a custom Laravel framework with GSAP scroll animations
-
----
-
-## Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chriskarabinis&hide_border=true&theme=tokyonight&border_radius=8" alt="GitHub streak">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/chriskarabinis?style=flat-square&logo=github&label=Followers&color=1F6FEB" alt="Followers">
-  <img src="https://img.shields.io/github/stars/chriskarabinis?style=flat-square&logo=github&label=Stars&color=1F6FEB" alt="Stars">
-</p>
-
-<!--
-  Optional: GitHub stats cards.
-  The public github-readme-stats instance is often rate-limited and renders as a broken image.
-  Deploy your own fork to Vercel, then swap the host below and uncomment.
-
-  <img src="https://YOUR-INSTANCE.vercel.app/api?username=chriskarabinis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight">
-  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=chriskarabinis&layout=compact&langs_count=8&hide_border=true&theme=tokyonight">
--->
 
 ---
 
 <p align="center">
-  <i>Open to hosting engineer / systems administrator roles.</i>
+  <i>Open to DevOps engineering roles.</i>
 </p>
