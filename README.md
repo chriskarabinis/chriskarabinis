@@ -30,6 +30,18 @@ I started out building websites in WordPress. Then I got curious about what happ
 
 ---
 
+## In production
+
+Client platforms I host and keep running — deployments, maintenance, mail and DNS included.
+
+- **[querico.gr](https://querico.gr)** — coffee-shop franchise brand with its own merch · brand site &amp; e-shop
+- **[akraion-ent.gr](https://akraion-ent.gr)** — restaurant &amp; hospitality in Volos · online table booking
+- **[elixrysos.gr](https://elixrysos.gr)** — organic supplements &amp; superfoods · WooCommerce e-shop
+- **avlieatery.gr** — restaurant · *launching soon*
+- **thetzim143.gr** — gym · *launching soon*
+
+---
+
 ## What I work with
 
 **Systems &amp; cloud**
